@@ -56,7 +56,5 @@ Adding more customizable image templates for user creativity.
 Fork the repository.
 Create a new feature branch.
 Make your changes and submit a pull request.
-For any issues or queries, feel free to reach out to us at hirthicksofficial@gmail.com
-
 
    
